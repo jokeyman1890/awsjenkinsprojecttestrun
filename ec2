@@ -1,0 +1,6 @@
+#!/bin/zsh
+
+##Create an ec2 on AWS bucket
+
+chmod +x ec2
+cat ec2
